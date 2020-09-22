@@ -1,0 +1,1 @@
+# stan-stricdata-minimal
